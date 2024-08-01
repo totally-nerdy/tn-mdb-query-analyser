@@ -16,7 +16,7 @@ prints the results in a nice understandable way.
 
 ## How to run
 
-[![Watch how to run](https://raw.githubusercontent.com/totally-nerdy/tn-mdb-query-analyser/main/How-To-Run.png)](https://raw.githubusercontent.com/totally-nerdy/tn-mdb-query-analyser/main/How-To-Run.mp4)
+[![Watch how to run](https://raw.githubusercontent.com/totally-nerdy/tn-mdb-query-analyser/main/How-To-Run.jpg)](https://raw.githubusercontent.com/totally-nerdy/tn-mdb-query-analyser/main/How-To-Run.mp4)
 
 
 ## Notes
